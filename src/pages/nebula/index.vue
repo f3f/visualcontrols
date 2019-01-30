@@ -3,8 +3,8 @@
 </template>
 
 <script type="text/javascript">
-   import Nebula from '@/assets/js/nebula.js'
-   import $ from '@/assets/js/jquery-1.9.0.js'
+   import Nebula from 'assets/js/Nebula.js'
+   import $ from 'assets/js/jquery-1.9.0.js'
 
     export default {
         name: 'Nebula',
