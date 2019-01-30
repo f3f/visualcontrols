@@ -4,8 +4,8 @@
 
 
 <script type="text/javascript">
-  import Nebula from 'assets/js/nebula.js'
-  import Galaxy from 'assets/js/galaxy.js'
+  import Nebula from '@/assets/js/nebula.js'
+  import Galaxy from '@/assets/js/galaxy.js'
 
   export default {
     name: 'component_name',
